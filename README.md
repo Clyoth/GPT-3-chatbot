@@ -58,7 +58,7 @@ To start running the application follow the installation process below.
     pip install SpeechRecognition
   ```
 5. Enter your API in `api_key.py`
-   ```sh
+
    API_KEY = 'ENTER YOUR API';
    ```
 
