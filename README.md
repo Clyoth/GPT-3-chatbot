@@ -56,7 +56,7 @@ To start running the application follow the installation process below.
     pip install openai
     pip install pyttsx3
     pip install SpeechRecognition
-  ```
+   ```
   
 5. Enter your API in `api_key.py`
    ```sh
