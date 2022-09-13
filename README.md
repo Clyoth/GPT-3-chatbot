@@ -26,7 +26,7 @@
 
 The project is an AI which is using GPT-3 Technology and the utility is _____________________.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -51,7 +51,6 @@ To start running the application follow the installation process below.
    API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -62,7 +61,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -75,7 +73,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/Clyoth/GPT-3-thing/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -93,7 +90,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -102,7 +99,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -113,7 +110,7 @@ James Lazaro - [Facebook](https://www.facebook.com/leouserhere) - sumiplorem@gma
 
 GPT-3-thing: [Github Repository](https://github.com/Clyoth/GPT-3-thing)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
