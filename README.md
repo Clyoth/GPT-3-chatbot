@@ -36,17 +36,28 @@ To start running the application follow the installation process below.
 
 
 ### Installation
+1. Install Python from [Python's Website](https://www.python.org/) - Only for Windows
 
-1. Get a free API Key at https://openai.com
-2. Clone the repo
+2. Get a free API Key at https://openai.com
+
+3. Clone the repo
    ```sh
    git clone https://github.com/Clyoth/GPT-3-thing
    ```
-3. Setup Dependency
+4. Setup Dependency
+   For Linux
    ```sh
-   ./setup.sh
+   ./setup.sh 
+
    ```
-4. Enter your API in `api_key.py`
+   For Windows 
+   ```sh
+   <--Run these in CMD-->
+    pip install openai
+    pip install pyttsx3
+    pip install SpeechRecognition
+  ```
+5. Enter your API in `api_key.py`
    ```js
    API_KEY = 'ENTER YOUR API';
    ```
